@@ -1,0 +1,9 @@
+.dark>img{
+    mix-blend-mode: luminosity;
+}
+.fa-star{
+    color: goldenrod;
+}
+footer div p a{
+    text-decoration: none;
+}
